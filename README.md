@@ -6,3 +6,9 @@ This package is built on top of Flutter's recommended Lints.
 1. Just add `openfoodfacts_flutter_lints` as a `dev_dependencies` to your pubspec.yaml file.
 2. Run `flutter pub get` to download the lints.
 3. Edit the `analysis_options.yaml` file and include `package:openfoodfacts_flutter_lints/flutter.yaml`
+
+
+### Useful resources
+
+* [Open Food Facts official mobile app](https://github.com/openfoodfacts/smooth-app)
+* [Open Food Facts Dart package](https://github.com/openfoodfacts/openfoodfacts-dart)
