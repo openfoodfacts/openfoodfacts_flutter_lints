@@ -135,6 +135,7 @@ linter:
     unnecessary_statements: true
     unnecessary_string_escapes: true
     unnecessary_string_interpolations: true
+    unnecessary_underscores: true
     unnecessary_this: true
     unrelated_type_equality_checks: true
     use_full_hex_values_for_flutter_colors: true

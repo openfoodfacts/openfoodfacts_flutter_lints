@@ -2,11 +2,11 @@ name: openfoodfacts_flutter_lints
 description: Recommended lints for Open Food Facts Flutter apps, packages and plugins
 repository: https://github.com/openfoodfacts/openfoodfacts_flutter_lints
 issue_tracker: https://github.com/openfoodfacts/openfoodfacts_flutter_lints/issues
-version: 1.0.0
+version: 1.1.0
 publish_to: "none"
 
 environment:
-  sdk: ^3.5.3
+  sdk: ^3.8.0
 
 dependencies:
-  flutter_lints: 4.0.0
+  flutter_lints: 6.0.0
